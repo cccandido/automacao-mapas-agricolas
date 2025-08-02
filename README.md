@@ -24,7 +24,9 @@ Modelagem de Dados: Banco PostgreSQL estruturado com JOINs automáticos entre da
 
 Função PostgreSQL + Interface QGIS: Desenvolvimento de função SQL customizada consumida diretamente no QGIS para seleção parametrizada de datas, eliminando riscos de erro de período
 
-Automação Python: Script integrado que executa:
+**Automação Python:**
+
+Script integrado que executa:
 
 • Extração e tratamento de dados do banco
 
@@ -38,7 +40,7 @@ Automação Python: Script integrado que executa:
 
 • Preparação para exportação em PDF
 
-Funcionalidades Avançadas:
+**Funcionalidades Avançadas:**
 
 Estilização automática de camadas (sem intervenção manual)
 
@@ -65,8 +67,11 @@ Layout responsivo com gráficos integrados
 ## 🛠️ **Stack Tecnológica**
 
 • **PostgreSQL:** Modelagem dimensional, ETL e validações estatísticas
+
 • **QGIS:** Geoprocessamento com funções SQL personalizadas
+
 • **Python:** Automação de gráficos, tematizações e layouts
+
 • **Integração:** Scripts nativos QGIS para workflow completo
 
 ## 🔮 **Próximos Passos**
